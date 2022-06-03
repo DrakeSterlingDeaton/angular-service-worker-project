@@ -4,7 +4,7 @@
   "name": "Angular PWA Course",
   "scope": "/",
   "display": "fullscreen",
-  "start_url": "http://localhost:8080/",
+  "start_url": "http://127.0.0.1:8080/",
   "short_name": "Angular PWA Course",
   "theme_color": "transparent",
   "description": "Learn and Keep Up With The Angular Ecosystem",
@@ -15,7 +15,7 @@
   "icons": [
     {
       "src": "/favicon.ico",
-      "sizes": "16x16 32x32"
+      "sizes": "16x16"
     },
     {
       "src": "/assets/android-icon-36x36.png",
